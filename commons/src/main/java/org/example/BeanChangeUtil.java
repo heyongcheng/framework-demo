@@ -30,8 +30,8 @@ public class BeanChangeUtil {
             }
             return contrast_2(obj1, obj2);
         } catch (Exception e) {
+            return e.getMessage();
         }
-        return "";
     }
 
     private static String contrast_1(Object obj1, Object obj2) throws IntrospectionException {

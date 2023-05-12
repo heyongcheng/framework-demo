@@ -30,6 +30,9 @@ public class BeanChangeUtilTest {
 
         String contrast = BeanChangeUtil.contrast(user1, user2);
         System.out.println(contrast);
+
+        String contrast2 = BeanChangeUtil.contrast(user1, user1);
+        System.out.println(contrast2);
     }
 
 }
