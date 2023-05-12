@@ -11,6 +11,7 @@
   <modules>
     <module>dubbo</module>
     <module>rocketmq</module>
+    <module>commons</module>
   </modules>
 
   <properties>
