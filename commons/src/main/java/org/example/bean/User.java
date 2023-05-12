@@ -1,8 +1,8 @@
 package org.example.bean;
 
 import java.util.Date;
-import org.example.BeanChangeUtil.Ignore;
-import org.example.BeanChangeUtil.Name;
+import org.example.ContrastUtil.Ignore;
+import org.example.ContrastUtil.Name;
 
 /**
  * @author heyc

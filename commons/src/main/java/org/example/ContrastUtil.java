@@ -18,7 +18,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @version 1.0
  * @date 2023/5/12 15:33
  */
-public class BeanChangeUtil {
+public class ContrastUtil {
 
     public static String contrast(Object obj1, Object obj2) {
         if (Objects.equals(obj1, obj2)) {
