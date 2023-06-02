@@ -12,6 +12,8 @@
     <module>dubbo</module>
     <module>rocketmq</module>
     <module>commons</module>
+    <module>flink</module>
+    <module>jmeter</module>
   </modules>
 
   <properties>
